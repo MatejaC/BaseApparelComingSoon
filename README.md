@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/MatejaC/BaseApparelComingSoon)]
+- Solution URL: [Solution URL](https://github.com/MatejaC/BaseApparelComingSoon)
 
 ### Built with
 
